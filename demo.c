@@ -11,5 +11,11 @@ int main(){
 	b=temp;
 	
 	printf("a:%d \n",a);
-	printf("b:%d",b);
+	printf("b:%d \n",b);
+	
+	int l=20;
+	
+	printf("area of a rectangle:%d",l*l);
+		
+	
 }
